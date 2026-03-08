@@ -1053,4 +1053,4 @@ The result is a production-ready healthcare system that leverages blockchain tec
 - Testnet: $0-5 (faucet ETH free)
 - Production: $10-50/month + gas fees (~$1-5 per transaction)
 
-#demo
+
